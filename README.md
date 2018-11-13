@@ -8,3 +8,4 @@ Line ex2 - 2
 Change from exercise3 branch   
 Change from featureGFT branch    
 Merge with conflicts line 1  
+Merge with conflicts line 2  
