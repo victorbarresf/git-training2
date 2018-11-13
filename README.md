@@ -9,3 +9,5 @@ Change from exercise3 branch
 Change from featureGFT branch    
 Merge with conflicts line 1  
 Merge with conflicts line 2  
+Merge from branch 1  
+Merge from branch 2  
