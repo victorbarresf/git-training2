@@ -8,3 +8,4 @@ Line ex2 - 2
 Change from exercise3 branch  
 Change from featureGFT branch  
 Merge from branch 1  
+Merge from branch 2  
